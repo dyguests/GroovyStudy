@@ -18,3 +18,5 @@ println doubled
 
 println lst.collect{it+1000}
 
+println lst.collect{it+1000}
+
