@@ -1,4 +1,4 @@
-package com.fanhl.test.s5
+package com.fanhl.test.s2014.s5
 
 name='dave'
 println '''my name is

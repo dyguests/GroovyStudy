@@ -1,6 +1,5 @@
-package com.fanhl.test.s6;
+package com.fanhl.test.s2014.s6;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Consumer;
@@ -18,13 +17,6 @@ public class JavaArrayList {
         for (String s : aList) {
             System.out.println(s.toUpperCase());
         }
-
-        aList.forEach(new Consumer<String>() {
-            @Override
-            public void accept(String s) {
-                System.out.println(s.toUpperCase());
-            }
-        });
 
         aList.forEach(new Consumer<String>() {
             @Override

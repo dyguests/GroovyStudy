@@ -1,4 +1,4 @@
-package com.fanhl.test.s0
+package com.fanhl.test.s2014.s0
 
 /**
  * Created by fanhl on 14/12/30.

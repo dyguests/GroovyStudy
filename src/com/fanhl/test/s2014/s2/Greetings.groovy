@@ -1,4 +1,4 @@
-package com.fanhl.test.s2
+package com.fanhl.test.s2014.s2
 
 //for (i in 0..2) {
 //    print "ho "
