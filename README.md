@@ -21,3 +21,39 @@ groovy语言学习用
 #####t20150105
 
 实现一个NodeList,允许每个元素可以调用其前后无素
+
+#####t20150106
+
+1. GetFieldWithoutGetMethod
+
+    实现取得类中的一个值,并且不通过get方法
+
+2. RunText
+
+    直接执行字符串的内容  println Eval.me('1+2/3')
+
+#####t20150107
+
+1. ListAndArray
+
+    测试声明数组时,是否每个元素都需要实例化.最后结论:需要
+
+2. CurriedClosureTest
+
+    测试科里化闭包
+
+3. ClassA 和 ClassB
+
+    测试类之间的调用关系
+
+4. FinalAXXXXX
+
+    测试 final属性有没有用:有用
+
+#####t20150108
+
+iterator
+
+#####t20150109
+
+int list to String list
