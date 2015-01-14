@@ -13,6 +13,6 @@ public class JavaTest2 {
         lst.add("is");
         lst.add("Sparta");
 
-        lst.forEach(System.out::println);
+        lst.forEach(System.out::println);//need java8
     }
 }

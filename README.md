@@ -2,6 +2,8 @@
 
 groovy语言学习用
 
+注意!!!!这是用*IDEA*编写的*Java项目*,不是android studio中的android项目.
+
 #Index
 
 ###s2014
