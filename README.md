@@ -57,3 +57,7 @@ iterator
 #####t20150109
 
 int list to String list
+
+#####t20150114
+
+一个Java语言与Groovy语言差别的样例:groovy到底可以写得多简单
