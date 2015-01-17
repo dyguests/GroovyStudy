@@ -63,3 +63,7 @@ int list to String list
 #####t20150114
 
 一个Java语言与Groovy语言差别的样例:groovy到底可以写得多简单
+
+#####t20150114
+
+多返回值的方法
