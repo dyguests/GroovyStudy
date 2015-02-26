@@ -71,3 +71,35 @@ int list to String list
 #####t20150117
 
 ReflectTest:简单的反射测试,包括成员变量的反射和方法的反射
+
+#####t20150124
+
+Convert:自动把自定义类型转型的办法:
+
+        Convert.from( String ).to( Date ).using { new java.text.SimpleDateFormat('MM-dd-yyyy').parse(value) }
+        def christmas = '12-25-2010' as Date
+
+####t02
+
+#####t20150201
+
+几个获取控制台输入的小程序
+
+#####t20150205
+
+甘特图练习
+
+#####t20150208
+
+BitComputing 位运算
+
+#####t20150221
+
+CallbackDemo    回调用演示程序
+
+#####t20150226
+
+并行/并发 的各语言版本对比
+
+
+
