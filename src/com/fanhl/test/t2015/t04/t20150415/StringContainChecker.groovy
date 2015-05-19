@@ -1,4 +1,4 @@
-package com.fanhl.test.t2015.t03.t20150415
+package com.fanhl.test.t2015.t04.t20150415
 //时间为O(m+n),空间上只用了一个int变量(若要分大小写就用long变量就行)
 def contain(String father, String son) {
     int checker = 0

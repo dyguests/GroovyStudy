@@ -1,4 +1,4 @@
-package com.fanhl.test.t2015.t03.t20150409
+package com.fanhl.test.t2015.t04.t20150409
 
 String leftShift(String str, int n = 1) {
     def length = str.length()
